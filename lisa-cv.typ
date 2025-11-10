@@ -33,6 +33,7 @@ Skilled Software Developer specializing in frontend development with a strong fo
 - Mentoring junior developers by providing *technical guidance*, support, and structured onboarding processes to accelerate team productivity.
 - Developed API's using *.NET core* for supporting Internal projects
 - Implemented *Power Automate* flows from scratch to eas the process of Admin people to reduce Manual work.
+- Maintained a Power BI dashboard tracking monthly financial savings across various cloud tools and visualized comparative savings trends.
 
 #ExperienceOrEducation("Cognizant", "Software Engineer", "July 2021 - Mar 2024", "Coimbatore, IN")
 - Hands-on experience in developing and enhancing web applications using *ReactJS* and *.NET* technologies.
@@ -57,6 +58,6 @@ Skilled Software Developer specializing in frontend development with a strong fo
 
 = Education
 #line(length: 100%)
-#ExperienceOrEducation("Master of Computer Applications", "Anna University", "2018-2021", "TN, India")
+#ExperienceOrEducation("Master of Computer Applications - 8.92 CGPA", "Anna University", "2018-2021", "TN, India")
 
-#ExperienceOrEducation("Bachelor of Science (Computer Systems and Design)", "Anna University", "2015-2018", "TN, India")
+#ExperienceOrEducation("Bachelor of Science (Computer Systems and Design) - 8.05 CGPA", "Anna University", "2015-2018", "TN, India")
